@@ -66,6 +66,8 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 [![IMG-20240302-092245-6.jpg](https://i.postimg.cc/nz19jVLS/IMG-20240302-092245-6.jpg)](https://postimg.cc/MMvpgSV1)
 
 14. Revisar el equipo y dar una evaluacion rapida.
+[![IMG-20240302-120406-11-CS.jpg](https://i.postimg.cc/7LSkwmPw/IMG-20240302-120406-11-CS.jpg)](https://postimg.cc/GB3NjPs5)
+
 15. Desarmar los componentes y hacer una limpieza.
 16. Cambiar la pasta termica con cuidado y mucha delicadeza.
 17. volver a armar el equipo y ensamblar adecuadamente.
