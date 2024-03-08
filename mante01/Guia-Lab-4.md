@@ -75,6 +75,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 [![1709925345472.jpg](https://i.postimg.cc/44pRc8pc/1709925345472.jpg)](https://postimg.cc/23jtR7cj)
 
 17. volver a armar el equipo y ensamblar adecuadamente.
+[![IMG-20240302-123138-327.jpg](https://i.postimg.cc/xd9SYwz0/IMG-20240302-123138-327.jpg)](https://postimg.cc/Mn3Lmr54)
 
 ## 5. [Caracterizas del sistema final](#) ✔
 
