@@ -63,6 +63,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 11. Elimincaion de complemento basura.
 12. instalacion de licencias.
 13. Destapár el equipo con cuidado
+content://media/external/downloads/5314
 14. Revisar el equipo y dar una evaluacion rapida.
 15. Desarmar los componentes y hacer una limpieza.
 16. Cambiar la pasta termica con cuidado y mucha delicadeza.
