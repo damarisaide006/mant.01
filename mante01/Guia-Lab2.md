@@ -42,7 +42,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 |--|:--:|--:|
 |Marca|-->|xxxxxx|(Aspire E5-411)
 |Referencia|-->|xxxxx|
-|Velocidad de la CPU|-->|xxxxx|(2,16 GHz)
+|Velocidad de la CPU|-->|xxxxx|(Aspire E5-411)
 |Tamaño de la memoria RAM|-->|xxxxx|(4,00 gb)
 |Sistema Operativo|-->|xxxxxxx|(windows 10 home single lenguage)
 |Tipo de WIFI|-->|xxxxxxxx|(802.11n)
@@ -70,7 +70,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 |Arquitectura de sistema|-->|cuantos bits|(64 bits)
 |version de producto|-->|profesional home|(home single lenguage)
 |Version del sistema|-->|22.04H|(18363.592)
-|Licencia|-->|wordgrouo|WORKGROUP
+|Licencia|-->|wordgrouo|(WORKGROUP)
 |Codigo de Licencia|-->|nombre del equipo|(desktop-V6MH80O)
 
 

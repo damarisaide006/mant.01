@@ -27,12 +27,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 
 <ol type="a">
 
-<li>¿Cual es la importancia de tener una backup de controladores?</li>
-<li>¿Como sacamos los drivers de nuesto equipo?.</li>
+<li>¿Cual es la importancia de tener una backup de controladores?</li>R//es importante porque en caso de que se dañen los equipos la informacion se la puede recuperar.
+<li>¿Como sacamos los drivers de nuesto equipo?.</li>R// *creamos una carpeta y la llamaremos DRIVERS, *abrimos powershell en modo administrador, *en la ventana que se abre escribimos: Export-windowDriver-online-Destination C:/DRIVERS, *nos dirigimos a la carpeta C: DRIVERS y comprobamos que todas las carpetas esten con los drivers, * copiamos en USB externo para utilizarlo en la instalacion de nuestro windows.
 <li>¿Que licencias tiene nuestro equipo informatico?.</li>
-<li>¿Por que la importancia de las licencias del software?.</li>
-<li>¿Que tipo de licencias existen para nuestro software?.</li>
-<li>¿Que licencia recomienda para un cliente?</li>
+<li>¿Por que la importancia de las licencias del software?.</li>R// porque windows tiene licencias de proteccion.
+<li>¿Que tipo de licencias existen para nuestro software?.</li>R// licencia retail, vitalicias, caducidad 
+<li>¿Que licencia recomienda para un cliente?</li>R// le recomendaria la licencia vitalicia porque le dura toda la vida.
 
 </ol>
 
