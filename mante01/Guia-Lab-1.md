@@ -36,26 +36,26 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 ## 2. [Preguntas reflexivas de ambientación](#) ✔
 
 <ol type="a">
-<li>¿Cuáles son los principales riesgos o problemas que pueden surgir si no se realiza mantenimiento preventivo en los portátiles?</li>
-<li>¿Qué componentes de un portátil son más susceptibles a fallas y requieren un mantenimiento preventivo más frecuente?</li>
-<li>¿Qué herramientas y recursos se necesitan para llevar a cabo un mantenimiento preventivo efectivo en los portátiles?</li>
-<li>¿Cuáles son las mejores prácticas para mantener limpios los componentes internos y externos de un portátil como parte del mantenimiento preventivo?</li>
-<li>¿Qué estrategias podemos emplear para optimizar el rendimiento del portátil como parte del mantenimiento preventivo, además de simplemente corregir problemas existentes?</li>
+<li>¿Cuáles son los principales riesgos o problemas que pueden surgir si no se realiza mantenimiento preventivo en los portátiles?</li>R//si no se realiza mantenimiento preventivo en los portatiles reduciria la vida util del equipo o tambien podria tener algunos errores como por ejemplo problemas en la memoria, posible perdida de informacion, bloqueos, virus.
+<li>¿Qué componentes de un portátil son más susceptibles a fallas y requieren un mantenimiento preventivo más frecuente?</li>R// los componentes mas suceptibles a fallas son:  la pantalla, teclado, disco duro, memoria ram. 
+<li>¿Qué herramientas y recursos se necesitan para llevar a cabo un mantenimiento preventivo efectivo en los portátiles?</li>se necesita utilizar un buen antivirus, actualizar el software, una limpieza.
+<li>¿Cuáles son las mejores prácticas para mantener limpios los componentes internos y externos de un portátil como parte del mantenimiento preventivo?</li>r// para mantener los componentes internos y externos limpios se necesita: limpiar el disco duro, vaciar papelera desfragmentar el disco duro, disinstalar programas, corroborar actualizaciones, cargar bateria lo necesario,evitar situaciones que puedan poner en riesgo al PC.
+<li>¿Qué estrategias podemos emplear para optimizar el rendimiento del portátil como parte del mantenimiento preventivo, además de simplemente corregir problemas existentes?</li>R// Actualizar sistema operativo, actualizar drivers, actualizar software util, elimina software innecesario, antivirus actualizado y configurado.
 </ol>
 
 ## 3. [Caracterización del Pc ](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
-|Número Discos Físicos|-->|3|
-|Tamaño de Discos|-->|40 GB|
-|Horas de uso|-->|8523|
-|Memoria fisica disponible|-->|7000 MB|  
-|Memoria virtual tamaño maximo|-->|7000 MB|  
-|Memoria virtual disponible|-->|7000 MB|  
-|Memoria virtual en uso|-->|7000 MB|
-|Procesador |-->|Liteon Technology Corporation|
-|Fabricante del procesador|-->|3C-A0-67|
-|Modelo del Computador|-->|3C-A0-67-E8-D8-77|
+|Número Discos Físicos|-->|3|(1)
+|Tamaño de Discos|-->|40 GB|(117 GB)
+|Horas de uso|-->|8523|(3:9:52)
+|Memoria fisica disponible|-->|7000 MB|  ( 981 MB )
+|Memoria virtual tamaño maximo|-->|7000 MB| ( 6.732 MB) 
+|Memoria virtual disponible|-->|7000 MB| (1.538 MB) 
+|Memoria virtual en uso|-->|7000 MB|(5.194 MB)
+|Procesador |-->|Liteon Technology Corporation |( Intel64 Family 6 Model 55 Stepping 8 GenuineIntel ~2159 Mhz)
+|Fabricante del procesador|-->|3C-A0-67| Intel
+|Modelo del Computador|-->|3C-A0-67-E8-D8-77| (Aspire E5-411)
 
 >Nota: Para obtener los parámetros del sistema, usaremos los comandos [tecla de Windows + R][10], [cmd][8], [systeminfo][9].
 
@@ -63,22 +63,22 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 ## 4. [Caracteristcias de sistema](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
-|Sistema Operativo|-->|linux,windows|
-|Arquitectura de sistema|-->|cuantos bits|
-|version de producto|-->|profesional home|
-|Version del sistema|-->|22.04H|
-|Grupo de trabajo|-->|wordgrouo|
-|Nombre del equipo|-->|nombre del equipo|
+|Sistema Operativo|-->|linux,windows|(windows 10 home single lenguaje)
+|Arquitectura de sistema|-->|cuantos bits|(64 bits)
+|version de producto|-->|profesional home|(home single lenguaje)
+|Version del sistema|-->|22.04H|(18363.592)
+|Grupo de trabajo|-->|wordgrouo|WORKGROUP
+|Nombre del equipo|-->|nombre del equipo|(desktop-V6MH80O)
 
 >Nota: Para obtener los parámetros de la red, usaremos el comando [tecla de Windows + R][10], [cmd][8], [systeminfo][9] o usando las propiedades del equipo dando click derecho.
 
 ## 5. [Diagnostico Diferencial](#) ✔
 |Parámetro|Diagnostico|
 |--|--:|
-|Diagnostico del sistema| como|
-|Diagnostico para discos| recom|
-|Diagnostico de memorias| recom|
-|Diagnostico fisico| reco|
+|Diagnostico del sistema| como|(esta muy lento)
+|Diagnostico para discos| recom|(dejar un poco de espacio libre en la unidad solida (ssd))
+|Diagnostico de memorias| recom|(cerrar aplicaciones que no se utiliza, reiniciar dispositivoregularmente)
+|Diagnostico fisico| reco|(el sistema no estaba actualizado totalmente)
 
 >Nota: Para obtener los parámetros dedemos, usar los sistemas recomendados.
 
