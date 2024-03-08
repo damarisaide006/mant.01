@@ -27,12 +27,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 
 <ol type="a">
 
-<li>¿Por que es mejor Instalar el sistema desde cero que montarlo en otro ya existente?</li>
-<li>¿Que significa MBR?.</li>
-<li>¿Que significa GPT?.</li>
-<li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.</li>
-<li>¿Que ventajas tiene instalar sin UEFI?.</li>
-<li>¿Que es mas recomendable?</li>
+<li>¿Por que es mejor Instalar el sistema desde cero que montarlo en otro ya existente?</li>R//porque de esta manera funcionara sin problemas.
+<li>¿Que significa MBR?.</li>R//significa que usan la tabla de particiones de la BIOS estandar.
+<li>¿Que significa GPT?.</li>R// significa que se puede tener mas de 4 particiones 
+<li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.</li>R//algunas ventajas son: compatibilidad para mas de vuatro particiones por unidad, inicio rapido, manejo mas facil con ayuda del raton, mayor seguridad gracias al modo secure Boot.
+<li>¿Que ventajas tiene instalar sin UEFI?.</li>R//si no instalo con UEFI el sistema puede arrancar con una tarjeta grafica que no reconoce o para el que no tiene controladores firmados digitalmente puede arrancar con un live CD.
+<li>¿Que es mas recomendable?</li>R// UEFI es mas recomendable porque tienen un inicio mas rapido.
 
 </ol>
 
@@ -40,12 +40,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 ## 3. [Caracterizar del Pc de Practica](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
-|Marca|-->|xxxxxx|
+|Marca|-->|xxxxxx|(Aspire E5-411)
 |Referencia|-->|xxxxx|
-|Velocidad de la CPU|-->|xxxxx|
-|Tamaño de la memoria RAM|-->|xxxxx|
-|Sistema Operativo|-->|xxxxxxx|
-|Tipo de WIFI|-->|xxxxxxxx|
+|Velocidad de la CPU|-->|xxxxx|(2,16 GHz)
+|Tamaño de la memoria RAM|-->|xxxxx|(4,00 gb)
+|Sistema Operativo|-->|xxxxxxx|(windows 10 home single lenguage)
+|Tipo de WIFI|-->|xxxxxxxx|(802.11n)
 |Voltaje DC|-->|xxxxxx|
 
 ## 4. [Configurar básica de CPE TP-LINK](#) ✔
@@ -66,12 +66,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 
 |Parámetro||Valor|
 |--|:--:|--:|
-|Sistema Operativo|-->|linux,windows|
-|Arquitectura de sistema|-->|cuantos bits|
-|version de producto|-->|profesional home|
-|Version del sistema|-->|22.04H|
-|Licencia|-->|wordgrouo|
-|Codigo de Licencia|-->|nombre del equipo|
+|Sistema Operativo|-->|linux,windows|windows 10
+|Arquitectura de sistema|-->|cuantos bits|(64 bits)
+|version de producto|-->|profesional home|(home single lenguage)
+|Version del sistema|-->|22.04H|(18363.592)
+|Licencia|-->|wordgrouo|WORKGROUP
+|Codigo de Licencia|-->|nombre del equipo|(desktop-V6MH80O)
 
 
 
