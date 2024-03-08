@@ -72,6 +72,8 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 [![IMG-20240302-120447-193.jpg](https://i.postimg.cc/9fkJghHf/IMG-20240302-120447-193.jpg)](https://postimg.cc/3ygXWzRM)
 
 16. Cambiar la pasta termica con cuidado y mucha delicadeza.
+[![1709925345472.jpg](https://i.postimg.cc/44pRc8pc/1709925345472.jpg)](https://postimg.cc/23jtR7cj)
+
 17. volver a armar el equipo y ensamblar adecuadamente.
 
 ## 5. [Caracterizas del sistema final](#) ✔
